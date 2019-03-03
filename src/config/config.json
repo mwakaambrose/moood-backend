@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "amsxbyte",
+        "database": "moood",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "amsxbyte",
+        "database": "moood_test",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "amsxbyte",
+        "database": "moood_production",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
