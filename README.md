@@ -13,5 +13,5 @@ $ npm install
 
 ### Start the server
 ```bash
-$ node index.js
+$ node moood.js
 ```
